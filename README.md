@@ -5,7 +5,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=RUHANI%20MEHTA%20⚙%20DEVELOPER&fontSize=45&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=RUHANI%20MEHTA%20&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- Typing Animation -->
