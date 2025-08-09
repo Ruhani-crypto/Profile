@@ -90,8 +90,5 @@
 
 <!-- Stylish Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-<p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 </p>
