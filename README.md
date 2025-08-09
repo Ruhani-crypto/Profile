@@ -1,6 +1,6 @@
 <!-- =========================================================
  README.md — Ruhani Mehta — Professional 3D Developer Profile
- Cleaned, aligned, with working animations & trophies
+ Fully aligned, with improved footer, trophies, showcase, and graphs
 ========================================================= -->
 
 <!-- Header Banner -->
@@ -32,7 +32,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ruhanimehta&theme=matrix&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -44,25 +44,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Graphs
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhanimehta&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhanimehta&theme=radical&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhanimehta&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/ruhanimehta/ruhanimehta/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
 ## ✨ Developer Showcase
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" style="margin: 10px;" />
 </p>
 
 ---
@@ -82,7 +85,10 @@
 
 ---
 
-<!-- Footer Banner -->
+<!-- Stylish Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Code%20•%20Challenge%20•%20Create%20•%20Repeat&fontAlign=50&fontAlignY=40&color=0:FF3B30,100:8E2DE2&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 </p>
