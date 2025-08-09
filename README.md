@@ -1,11 +1,11 @@
 <!-- =========================================================
  README.md — Ruhani Mehta — Professional 3D Developer Profile
- Fully aligned, with improved footer, trophies, showcase, and graphs
+ Full 3D animations, fixed gaps, random animated graphs, best UI
 ========================================================= -->
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=RUHANI%20MEHTA%20⚙%20DEVELOPER&fontSize=45&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,100:8E2DE2&height=220&text=RUHANI%20MEHTA%20⚙%20DEVELOPER&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- Typing Animation -->
@@ -32,7 +32,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruhanimehta&theme=matrix&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ruhanimehta&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -44,28 +44,35 @@
 
 ---
 
-## 📊 GitHub Stats & Graphs
+## 📊 GitHub Stats & Random Graphs
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruhanimehta&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhanimehta&theme=radical&hide_border=true" width="48%" />
 </p>
+
+<!-- Random Activity Graph (Animated style) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhanimehta&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhanimehta&theme=github-compact&bg_color=0D1117&color=FF3B30&line=8E2DE2&point=ffffff&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- Random Contribution Waves Graph -->
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/ruhanimehta?chart=calendar&format=svg&weeks=50&theme=purple&widget_size=small&animation=wave" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/ruhanimehta/ruhanimehta/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ruhanimehta/ruhanimehta/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
 ## ✨ Developer Showcase
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" style="margin: 10px;" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" style="margin: 10px;" />
+<p align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" />
 </p>
 
 ---
@@ -87,8 +94,8 @@
 
 <!-- Stylish Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Code%20•%20Challenge%20•%20Create%20•%20Repeat&fontAlign=50&fontAlignY=40&color=0:FF3B30,100:8E2DE2&fontColor=ffffff&animation=twinkling" width="100%"/>
 </p>
