@@ -32,7 +32,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://www.google.com/imgres?q=github%20trophy%20image&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F6661165%2F116633521-adbc8800-a994-11eb-97c4-e45a32721491.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy&docid=q5wHrY92x2blIM&tbnid=ImdaroSQNYPI2M&vet=12ahUKEwjN8Y3H4f2OAxUpyqACHXZlELgQM3oECCYQAA..i&w=1322&h=224&hcb=2&ved=2ahUKEwjN8Y3H4f2OAxUpyqACHXZlELgQM3oECCYQAA" width="200" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmY7Lr52ZD48Nyogq5_MxWdOhnQ2uHl9lOQ&s" width="200" />
 </p>
 
 
