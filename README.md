@@ -32,7 +32,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmY7Lr52ZD48Nyogq5_MxWdOhnQ2uHl9lOQ&s" width="200" />
+  <img src="https://github.com/user-attachments/assets/3b8a1c8b-afcd-49dc-ab18-a439d5c36a83" width="200" />
 </p>
 
 
