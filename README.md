@@ -1,19 +1,19 @@
-<!--
-===============================================================================
-  README.md — Ruhani Mehta — Professional 3D Developer Profile
-  Cleaned, aligned, with working animations, trophies, and proper section flow.
-===============================================================================
--->
+<!-- =========================================================
+ README.md — Ruhani Mehta — Professional 3D Developer Profile
+ Cleaned, aligned, with working animations & trophies
+========================================================= -->
 
-<!-- ========================= HEADER ========================= -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=RUHANI%20MEHTA%20⚙%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=RUHANI%20MEHTA%20⚙%20DEVELOPER&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=FF3B30&center=true&vCenter=true&width=900&height=60&lines=Hii%2C+I+am+Ruhani+Mehta+⚙;B.Tech+CSE+%7C+2nd+Year+Student;Learning+C,+C%2B%2B,+and+Python;Developer+%7C+Problem+Solver+%7C+Challenge+Taker" alt="Typing Animation" />
 </p>
 
+<!-- Animated 3D Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656846-caf0c7b4-c07b-420f-b06d-62c32e6b0ff7.gif" alt="3D Animation Banner" width="900" />
 </p>
@@ -32,7 +32,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruhanimehta&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -46,15 +46,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhanimehta&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhanimehta&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/ruhanimehta/ruhanimehta/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -82,6 +82,7 @@
 
 ---
 
+<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Code%20•%20Challenge%20•%20Create%20•%20Repeat&fontAlign=50&fontAlignY=40&color=0:FF3B30,100:8E2DE2&fontColor=ffffff&animation=twinkling" width="100%"/>
 </p>
