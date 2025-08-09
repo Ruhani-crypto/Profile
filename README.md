@@ -32,8 +32,9 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruhanimehta&theme=matrix&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trophy_icon.svg/1024px-Trophy_icon.svg.png" alt="Achievements Trophy" width="200" />
 </p>
+
 
 ---
 
