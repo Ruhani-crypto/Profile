@@ -46,18 +46,21 @@
 
 ## 📊 GitHub Stats & Graphs
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhanimehta&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhanimehta&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=radical&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhanimehta&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/ruhanimehta/ruhanimehta/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
